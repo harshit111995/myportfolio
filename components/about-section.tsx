@@ -50,8 +50,8 @@ export default function AboutSection() {
               viewport={{ once: true }}
               transition={{ duration: 0.6, delay: 0.2 }}
             >
-              I'm a Performance & Programmatic Manager with over 8 years of experience in digital marketing and media
-              buying. My expertise spans across programmatic advertising, performance marketing, and strategic campaign
+              I'm a Performance & Programmatic Manager with over 10+ years of experience in digital marketing and media
+              buying. My expertise spans programmatic advertising, performance marketing, and strategic campaign
               management for global brands.
             </motion.p>
 
@@ -62,8 +62,8 @@ export default function AboutSection() {
               viewport={{ once: true }}
               transition={{ duration: 0.6, delay: 0.4 }}
             >
-              Throughout my career, I've successfully managed campaigns across MENA, Asia, Russia, Americas, and Europe,
-              collaborating with major DSPs like DV360, The Trade Desk, Amazon, and more. I'm passionate about
+              Throughout my career, I've successfully managed campaigns across MENA, Asia, Russia, the Americas, and Europe,
+              collaborating with major DSPs like DV360, The Trade Desk, Amazon DSP, StackAdapt, and more. I'm passionate about
               data-driven strategies that deliver measurable results and exceptional ROI for clients across diverse
               industries.
             </motion.p>
@@ -140,9 +140,9 @@ export default function AboutSection() {
                 <h4 className="font-medium text-lg">Performance & Programmatic Manager</h4>
                 <p className="text-sm text-muted-foreground mb-2">Media Agency Group • 2024 - Present</p>
                 <p className="text-muted-foreground">
-                  Managing global programmatic campaigns for major accounts including NHS, Ariana Grande Perfumes, and
-                  Kuwait Airways. Generated an average 6:1 ROI and was recognized as the best performer for consecutive
-                  quarters.
+                  Managing global programmatic campaigns for major accounts, including the NHS, Ariana Grande Perfumes, Binance, DWF Labs, HP, Etisalat,
+                  Kuwait Airways & many more. Generated an average 6:1 ROI under the performance role and was recognized as the best performer for consecutive
+                  quarters. My main responsibility includes sustainable media strategy for brands and the utilisation of media investment efficiently with execptional output. 
                 </p>
               </motion.div>
 
@@ -165,7 +165,7 @@ export default function AboutSection() {
                 <p className="text-muted-foreground">
                   Led high-performing media buying campaigns resulting in a 126% increase in website traffic and a 1173%
                   boost in social media engagement. Achieved an 86% increase in CTR and a 62.7% rise in conversion
-                  rates.
+                  rates. Spearheading UAE, Canada & India digital team focusing on investment-based citizenship & residency programs. 
                 </p>
               </motion.div>
 
@@ -186,7 +186,7 @@ export default function AboutSection() {
                 <h4 className="font-medium text-lg">Digital & Marketing Manager</h4>
                 <p className="text-sm text-muted-foreground mb-2">UNO CAPITAL • 2022 - 2023</p>
                 <p className="text-muted-foreground">
-                  Achieved a 1.68% conversion rate, the highest in the industry, through data-driven digital strategies.
+                  Achieved a 4.68% conversion rate, the highest in the industry, through data-driven digital strategies.
                   Enhanced lead quality by 34.8% within six months and drove a 77.8% increase in lead generation
                   year-over-year.
                 </p>
