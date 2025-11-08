@@ -456,13 +456,13 @@ export default function Home() {
                   className="space-y-6 text-white/70"
                 >
                   <p>
-                    I'm a Performance & Programmatic Manager with over 8 years of experience in digital marketing and
+                    I'm a Performance & Programmatic Manager with over 10+ years of experience in digital marketing and
                     media buying. My expertise spans across programmatic advertising, performance marketing, and
                     strategic campaign management for global brands.
                   </p>
                   <p>
-                    Throughout my career, I've successfully managed campaigns across MENA, Asia, Russia, Americas, and
-                    Europe, collaborating with major DSPs like DV360, The Trade Desk, Amazon, and more. I'm passionate
+                    Throughout my career, I've successfully managed programmatic campaigns across MENA, Asia, Russia, the Americas, and
+                    Europe, collaborating with major DSPs like DV360, The Trade Desk, Amazon DSP, StackAdapt, Broadsign, and more. I'm passionate
                     about data-driven strategies that deliver measurable results and exceptional ROI for clients across
                     diverse industries.
                   </p>
