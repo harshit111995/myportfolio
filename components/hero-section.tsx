@@ -55,10 +55,10 @@ export default function HeroSection() {
           transition={{ duration: 0.8, delay: 1.3 }}
           className="text-muted-foreground mb-6"
         >
-          A Performance & Programmatic Manager with over 8 years of experience in digital marketing and media buying. I
+          A Performance & Programmatic Manager with over 10+ years of experience in digital marketing and media buying. I
           specialize in managing global programmatic campaigns, collaborating with major DSPs, and achieving exceptional
           ROI across diverse industries. Based in Dubai, I've worked with brands like NHS, Ariana Grande Perfumes,
-          Kuwait Airways, and many more to deliver data-driven strategies that maximize performance and engagement.
+          Kuwait Airways, Binance, DWF Labs, and many more to deliver data-driven strategies that maximize performance and engagement.
         </motion.p>
 
         <motion.div
