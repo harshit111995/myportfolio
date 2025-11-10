@@ -10,9 +10,8 @@ import AnimatedHeading from "@/components/animated-heading"
 import { Button } from "@/components/ui/button"
 import { Calendar, Mail, Phone } from "lucide-react"
 import { throttle } from "@/lib/utils"
-import { OrganizationJsonLd } from "@/components/json-ld";
-import CaseStudies from "./case-studies/components/CaseStudies";
-import NewsArticles from "./blog/components/NewsArticles"
+import NewsSection from "./blog/components/NewsArticles"
+import CaseStudies from "./case-studies/components/CaseStudies"
 import { OrganizationJsonLd } from "@/components/json-ld"
 
 type Certificate = {
